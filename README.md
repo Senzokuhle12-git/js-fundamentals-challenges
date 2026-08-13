@@ -13,7 +13,7 @@ Challenge 2: Type Coercion Quiz | Dynamic typing (coercion) | Browser console
 Challenge 3: Execution Order Puzzle | Interpreted execution / hoisting | Browser console
 
 ## For each of the three sections:
-• Complete every TODO in order, inside challenges.js.
-• Record your browser engine/runtime version (navigator.userAgent).
-• Add annotation notes at the bottom: at least three characteristics of JavaScript you observed, and one
+- Complete every TODO in order, inside challenges.js.
+- Record your browser engine/runtime version (navigator.userAgent).
+- Add annotation notes at the bottom: at least three characteristics of JavaScript you observed, and one
 limitation
